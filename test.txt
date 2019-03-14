@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 wudan is so smart!
-=======
  张榜 是个大傻逼
  
->>>>>>> dev
